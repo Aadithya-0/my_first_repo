@@ -4,7 +4,7 @@
 int main() {
     int n;
     printf("Enter the number of digits: ");
-    scanf("%d", &n);
+    // scanf("%d", &n);
 
     // Approximation using acos function
     double pi = 2 * acos(0.0);
